@@ -43,3 +43,7 @@ deployment of the site on Netlify (https://docs.netlify.com/)
 
 - To see the site : https://movies-react-pricilliae.netlify.app/
 - To see the code : https://github.com/pricilliaedou/React-Netflix.
+
+## Demo
+
+![Demo](./src//assets//demo-netflix.gif "Demo du site").

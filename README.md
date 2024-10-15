@@ -1,6 +1,6 @@
 # React Netflix
 
-## Resume
+## Summary
 
 Creation of a copy of the Netflix homepage from a json file (learning to React).
 
@@ -20,7 +20,7 @@ Integrated development environment used: Visual Studio Code.
 
 ## Local project installation
 
-1. git clone git@github.com:pricilliaedou/React-Netflix.git
+1. git clone https://github.com/pricilliaedou/React-Netflix.git
 2. yarn
 3. yarn dev
 
